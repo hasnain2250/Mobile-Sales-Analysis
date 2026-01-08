@@ -1,7 +1,7 @@
 # Mobile-Sales-Analysis
 
 
-## Power BI Data Analytics – 
+ 
 
 ## Project Overview
 This project analyzes mobile phone sales data using Power BI to answer business questions related to sales performance, product contribution, seasonal trends, customer behavior, Month-to-Date (MTD), and Year-to-Date (YTD) tracking. All data cleaning, transformation, analysis, and visualization were performed inside Power BI using Power Query.
